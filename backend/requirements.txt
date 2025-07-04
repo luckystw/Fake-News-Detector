@@ -1,0 +1,4 @@
+flask
+transformers
+flask-cors
+torch 
