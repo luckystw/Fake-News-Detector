@@ -24,6 +24,3 @@ Just open `frontend/index.html` in your browser.
 ## Usage
 - Paste news text in the web page and click 'Check'.
 - The backend will return a label prediction.
-
-## Notes
-- The backend uses a placeholder model (zero-shot-classification) for demo. For production, fine-tune a BERT model on a fake news dataset. 
